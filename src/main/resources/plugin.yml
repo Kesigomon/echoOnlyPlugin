@@ -1,0 +1,4 @@
+name: EchoOnly
+version: ${project.version}
+main: com.kesigomon.echoonlyplugin.echoonly.EchoOnly
+api-version: 1.16
